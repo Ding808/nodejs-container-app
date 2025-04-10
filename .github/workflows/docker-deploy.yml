@@ -1,5 +1,4 @@
 name: CI/CD for Node.js App
-
 on:
   push:
     branches:
